@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Application Description
+
+This is a movie application designed with three sections:
+- the watchlist
+- the watched
+- and the add section
+
+Through the Movie DB API you can search and add movies to your movie watchlist or add them to the watched section. You can also remove movies and switch them between your watchlist and watched movies. All these functionalities are enabled through the Context API. Enjoy!
